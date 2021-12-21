@@ -1,6 +1,6 @@
 # Odin Recipes
 
-HTML website project for The Odin Project.
+HTML/CSS website project for [The Odin Project](https://www.theodinproject.com).
 
 ## Skills Learned
 
@@ -13,4 +13,4 @@ I also implemented basic CSS for the website, which taught me how selectors, cla
 ### File Structure
 Finally, I learned the basic structure of the files composing a website within its directory and how to refer to these files using either absolute or relative links.
 
-View the website preview at https://gabgosrob.github.io/odin-recipes/
+View the website preview [here](https://gabgosrob.github.io/odin-recipes/).
